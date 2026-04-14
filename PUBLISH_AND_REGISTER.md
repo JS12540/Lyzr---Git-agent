@@ -110,7 +110,7 @@ Run these commands **exactly in order**:
 
 ```bash
 # 1. Go into the agent folder
-cd C:\Users\jay.shah\Desktop\Modulr_Projects\Learning\git_agent\agents\security-audit-agent
+cd C:\Users\jay.shah\Desktop\security-audit-agent
 
 # 2. Initialise a git repo
 git init
